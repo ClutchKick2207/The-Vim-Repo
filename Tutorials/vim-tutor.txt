@@ -9,10 +9,25 @@
 
   2. Hold down the down key (j) until it repeats.
      Now you know how to move to the next lesson.
-
+     
   3. Using the down key, move to Lesson 1.2.
-
-
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 NOTE: If you are ever unsure about something you typed, press <ESC> to place
       you in Normal mode.  Then retype the command you wanted.
 
@@ -35,7 +50,39 @@ NOTE: The cursor keys should also work.  But using hjkl you will be able to
 
 NOTE:  :q! <ENTER>  discards any changes you made.  In a few lessons you
        will learn how to save the changes to a file.
-
+       
   5. Move the cursor down to Lesson 1.3.
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+       ** Press  x  to delete the character under the cursor. **
+
+  1. Move the cursor to the line below marked --->.
+
+  2. To fix the errors, move the cursor until it is on top of the
+     character to be deleted.
+
+  3. Press the  x  key to delete the unwanted character.
+
+  4. Repeat steps 2 through 4 until the sentence is correct.
+
+---> The ccow jumpedd ovverr thhe mooon.
+
+  5. Now that the line is correct, go on to Lesson 1.4.
+
+NOTE: As you go through this tutor, do not try to memorize, learn by usage.
