@@ -1,7 +1,8 @@
 ===============================================================================
 =    W e l c o m e   t o   t h e   V I M   T u t o r    -    Version 1.7      =
 ===============================================================================
-
+     Please make a copy of this file before writing in it!
+     
      Vim is a very powerful editor that has many commands, too many to
      explain in a tutor such as this.  This tutor is designed to describe
      enough of the commands that you will be able to easily use Vim as
